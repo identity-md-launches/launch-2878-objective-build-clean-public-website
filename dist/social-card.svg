@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#111311"/>
+  <path d="M64 117h1072M64 535h1072" stroke="#282e28"/>
+  <g fill="#edf0e9" font-family="Arial,sans-serif">
+    <text x="68" y="82" font-size="25" font-weight="600">Wheelwatch</text>
+    <text x="68" y="265" font-size="70" font-weight="600" letter-spacing="-3">Squeekchain,</text>
+    <text x="68" y="345" font-size="70" font-weight="600" letter-spacing="-3">at a glance<tspan fill="#efc16a">.</tspan></text>
+    <text x="70" y="404" font-size="24" fill="#a1aaa0">The community dashboard for the hamster-powered chain.</text>
+    <text x="70" y="578" font-size="20" fill="#a1aaa0">Network · Physical work · SQK supply · Settlements</text>
+    <text x="1010" y="82" font-size="20" fill="#a1aaa0">Community</text>
+  </g>
+  <g transform="translate(850 140) scale(1.65)" stroke="#efc16a" stroke-width="2.5" fill="none">
+    <circle cx="80" cy="75" r="64"/><circle cx="80" cy="75" r="57"/><circle cx="80" cy="75" r="9"/>
+    <path d="M80 18v48m0 18v48M23 75h48m18 0h48M40 35l34 34m12 12 34 34M40 115l34-34m12-12 34-34m-60 102-10 23h60l-10-23M43 161h74"/>
+  </g>
+</svg>

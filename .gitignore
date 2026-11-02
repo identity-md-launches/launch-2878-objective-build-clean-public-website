@@ -1,0 +1,6 @@
+# Submission path budget (8 MiB maximum): source/config/docs/lockfile <= 1 MiB;
+# public/ <= 1 MiB; required dist/ <= 2 MiB. Reserve >= 4 MiB headroom.
+# These generated dependencies and disposable checks have a zero-byte Git budget.
+node_modules/
+/test/scratch/
+*.tsbuildinfo
